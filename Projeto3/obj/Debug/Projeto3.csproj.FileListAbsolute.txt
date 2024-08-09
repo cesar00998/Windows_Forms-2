@@ -1,0 +1,5 @@
+C:\Users\cesar.apsekito\source\repos\Windows_Forms\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\cesar.apsekito\source\repos\Windows_Forms\Projeto3\obj\Debug\Projeto3.label_IMC.resources
+C:\Users\cesar.apsekito\source\repos\Windows_Forms\Projeto3\obj\Debug\Projeto3.Properties.Resources.resources
+C:\Users\cesar.apsekito\source\repos\Windows_Forms\Projeto3\obj\Debug\Projeto3.csproj.GenerateResource.cache
+C:\Users\cesar.apsekito\source\repos\Windows_Forms\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
